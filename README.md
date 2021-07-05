@@ -1,3 +1,3 @@
 <p align = "center">
-<img src="Noderyos.png">
+<img src="THM.png">
 </p>
