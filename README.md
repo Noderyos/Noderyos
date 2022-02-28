@@ -1,3 +1,3 @@
 <p align = "center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/Noderyos.png" alt="TryHackMe">
+<img src="Noderyos.png" alt="TryHackMe">
 </p>
