@@ -2,6 +2,7 @@
 <p align = "center">
 <img src="Noderyos.png" alt="TryHackMe">
 </p>
+<script src="https://tryhackme.com/badge/163885"></script>
 
 ## My statistics
 
