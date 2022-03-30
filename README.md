@@ -1,8 +1,7 @@
 ## My hacking path
 <p align = "center">
-<img src="Noderyos.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Noderyos.png">
 </p>
-<img src="https://tryhackme.com/badge/163885">
 
 ## My statistics
 
