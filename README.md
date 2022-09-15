@@ -1,5 +1,10 @@
 ## My hacking path
-![tryhackme stats](https://raw.githubusercontent.com/Noderyos/Noderyos/master/assets/thm_propic.png)
+
+<p align = "center">
+    <a href="https://tryhackme.com/p/Noderyos">
+        <img src="https://raw.githubusercontent.com/Noderyos/Noderyos/master/assets/thm_propic.png">
+    </a>
+</p>
 
 ## My GH statistics
 
