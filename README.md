@@ -1,8 +1,7 @@
 ## My hacking path
 
-[![Noderyos's tryhackme stats](https://raw.githubusercontent.com/Noderyos/Noderyos/master/assets/thm_propic.png)][tryhackme]
+[![Noderyos's tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/Noderyos.png)][tryhackme]
 [![Noderyos's hackthebox stats](http://www.hackthebox.eu/badge/image/282944)][hackthebox]
-
 
 ---
 
